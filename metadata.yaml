@@ -1,0 +1,34 @@
+_repo: What-Is-Man--and-Other-Essays_70
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '70'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: What is man? -- The death of Jean -- The turning-point of my life
+  -- How to make history dates stick -- The memorable assassination -- A scrap of
+  curious history -- Switzerland, the cradle of liberty -- At the Shrine of St. Wagner
+  -- William Dean Howells -- English as she is taught -- A simplified alphabet --
+  As concerns interpreting the Deity -- Concerning tobacco -- The bee -- Taming the
+  bicycle -- Is Shakespeare dead?
+title: What Is Man? and Other Essays
+url: http://www.gutenberg.org/ebooks/70
